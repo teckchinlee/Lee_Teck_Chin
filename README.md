@@ -5,6 +5,7 @@
 ✉️: teckchinlee@gmail.com
 &nbsp;&nbsp; 📲 +65-XXXX XXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/teckchin) 
+&nbsp;&nbsp;![alt text](https://github.com/teckchinlee/Lee_Teck_Chin/blob/main/Linkedin%20QR.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -13,7 +14,6 @@
 <!-- Add link to your picture -->
 
 ![alt text](https://github.com/teckchinlee/Lee_Teck_Chin/raw/main/TC.jpg)
-&nbsp;&nbsp;![alt text](https://github.com/teckchinlee/Lee_Teck_Chin/blob/main/Linkedin%20QR.png)
 
 <!-- Add your details -->
 
@@ -60,7 +60,7 @@ Diploma in Marine Engineering
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### PROJECTS
+### SAMPLE PROJECTS TO BE UPDATED
 <!-- Add your details -->
 
 [Classification based projects](#classification-based-projects) <br>
@@ -80,7 +80,7 @@ In machine learning, classification refers to a predictive modeling problem wher
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+[Click here to view sample codebase to be updated](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 <!-- PROJECTS Section Ends -->
 
