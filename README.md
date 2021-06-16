@@ -38,6 +38,10 @@ Oct 2018 to June 2019
 Contracts and Procurement Manager<br>
 Jun 2005 to Jan 2018
 
+#### ExxonMobil
+Procurement Supervisor<br>
+Jun 2000 to May 2005
+
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
@@ -49,6 +53,8 @@ Master of Science, Building Science
 #### Nanyang Technological University
 Bachelor of Engineering, Mechanical and Production Engineering
 
+#### Singapore Polytechnic
+Diploma in Marine Engineering
 
 <!-- EDUCATION Section Ends -->
 
@@ -81,8 +87,7 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+RISE DigitalBCG Academy
 
 ##### Achievements
-Star performer of the year at Accenture
-<!-- FEATURED Section Ends -->
+Top 2 Business Essential Group Project
