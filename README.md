@@ -12,7 +12,8 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/teckchinlee/Lee_Teck_Chin/raw/main/TC.jpg)(https://github.com/teckchinlee/Lee_Teck_Chin/blob/main/Linkedin%20QR.png)
+![alt text](https://github.com/teckchinlee/Lee_Teck_Chin/raw/main/TC.jpg)
+&nbsp;&nbsp;![alt text](https://github.com/teckchinlee/Lee_Teck_Chin/blob/main/Linkedin%20QR.png)
 
 <!-- Add your details -->
 
